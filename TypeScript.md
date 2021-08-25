@@ -19,6 +19,12 @@
 <code>查看版本号：tsc -v</code>
 
 
+## 配置文件
+> 生成配置文件: <code>tsc --init</code>
+
+
+
+
 
 
 
